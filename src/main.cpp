@@ -36,5 +36,6 @@ class $modify(MyGJGarageLayer, GJGarageLayer) {
         // Set glow color to -1
 		gm->m_playerGlowColor = -1;
 
-		FLAlertLayer::create("Success!", "Set the Glow Color to -1!", "OK")->show();	}
+		FLAlertLayer::create("Success!", "Set the Glow Color to -1!", "OK")->show();
+	}
 };
