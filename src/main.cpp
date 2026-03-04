@@ -31,11 +31,11 @@ class $modify(MyGJGarageLayer, GJGarageLayer) {
 	}
 
 	void onGlowToggle(CCObject*) {
- 	   auto gm = GameManager::get();
+ 		auto gm = GameManager::get();
 
         // Set glow color to -1
 		gm->m_playerGlowColor = -1;
 
-		FLAlertLayer::create("Success!", "Set the Glow Color to -1!", "OK")->show();
+		FLAlertLayer::create("Success!", "Set the Glow Color to -1!", "OK")->show();	
 	}
 };
