@@ -1,3 +1,5 @@
+### This repository has been archived as this mod has been superseded by [Icon Kit Utilities by NyteLyte](https://github.com/nytelytee/geode-icon-kit-utilities) that implements this feature.
+
 # Minus One Glow Toggle
 
 Adds a button to the Icon Kit that sets your glow to -1. This causes the behavior of the player's glow to revert to pre-2.2 behavior, matching the secondary color of the player and changing accordingly for duals. This behavior will persist even after you uninstall the mod until you change your glow color back.
