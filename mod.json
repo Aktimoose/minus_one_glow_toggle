@@ -8,7 +8,7 @@
 	},
 	"id": "aktimoose.minus_one_glow_toggle",
 	"name": "Minus One Glow Toggle",
-	"version": "v1.0.0",
+	"version": "v0.1.1",
 	"developer": "Aktimoose",
 	"description": "Toggles -1 glow",
 	"dependencies": {
